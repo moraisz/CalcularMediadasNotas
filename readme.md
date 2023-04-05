@@ -1,0 +1,1 @@
+Trabalho da faculdade, é um programa que calcula a média das duas notas, e se não atingir a média de 6, a terceira nota substitui a menor nota.
